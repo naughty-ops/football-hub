@@ -1,0 +1,16 @@
+[
+  {
+    "id": "N1",
+    "title": "Tournament About to Begin!",
+    "content": "All groups are set and the first matches are scheduled. The tournament will kick off with Akhiesh vs Rasal in Group A.",
+    "date": "2025-07-30",
+    "urgent": true
+  },
+  {
+    "id": "N2",
+    "title": "Player Registration Complete",
+    "content": "All 12 players have been registered across 4 groups. Good luck to all participants!",
+    "date": "2025-07-29",
+    "urgent": false
+  }
+]

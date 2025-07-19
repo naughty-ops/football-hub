@@ -1,0 +1,215 @@
+{
+  "players": [
+    // Group A Players
+    {
+      "id": "P101",
+      "name": "Akhiesh",
+      "img": "images/players/akhiesh.jpg",
+      "position": 1,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "A",
+        "groupPosition": 1,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P102",
+      "name": "Rasal",
+      "img": "images/players/rasal.jpg",
+      "position": 2,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "A",
+        "groupPosition": 2,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P103",
+      "name": "Riswan",
+      "img": "images/players/riswan.jpg",
+      "position": 3,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "A",
+        "groupPosition": 3,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+
+    // Group B Players
+    {
+      "id": "P201",
+      "name": "Athul",
+      "img": "images/players/athul.jpg",
+      "position": 1,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "B",
+        "groupPosition": 1,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P202",
+      "name": "Vishnu",
+      "img": "images/players/vishnu.jpg",
+      "position": 2,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "B",
+        "groupPosition": 2,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P203",
+      "name": "Farhan",
+      "img": "images/players/farhan.jpg",
+      "position": 3,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "B",
+        "groupPosition": 3,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+
+    // Group C Players
+    {
+      "id": "P301",
+      "name": "Sayooj",
+      "img": "images/players/sayooj.jpg",
+      "position": 1,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "C",
+        "groupPosition": 1,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P302",
+      "name": "Nabhan",
+      "img": "images/players/nabhan.jpg",
+      "position": 2,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "C",
+        "groupPosition": 2,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P303",
+      "name": "Agraj",
+      "img": "images/players/agraj.jpg",
+      "position": 3,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "C",
+        "groupPosition": 3,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+
+    // Group D Players
+    {
+      "id": "P401",
+      "name": "Abhinav",
+      "img": "images/players/abhinav.jpg",
+      "position": 1,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "D",
+        "groupPosition": 1,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P402",
+      "name": "Anshad",
+      "img": "images/players/anshad.jpg",
+      "position": 2,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "D",
+        "groupPosition": 2,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    },
+    {
+      "id": "P403",
+      "name": "Advaith",
+      "img": "images/players/advaith.jpg",
+      "position": 3,
+      "points": 0,
+      "matchesPlayed": 0,
+      "matchesWon": 0,
+      "goalsScored": 0,
+      "tournamentStats": {
+        "group": "D",
+        "groupPosition": 3,
+        "groupPoints": 0,
+        "groupGoals": 0,
+        "groupGoalsAgainst": 0
+      }
+    }
+  ]
+}

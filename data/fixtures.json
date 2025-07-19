@@ -1,0 +1,53 @@
+{
+  "groups": ["A", "B", "C", "D"],
+  "matches": [
+    // Group A Round 1
+    {
+      "id": "A1",
+      "player1Id": "P101",
+      "player2Id": "P102",
+      "group": "A",
+      "round": 1,
+      "status": "scheduled",
+      "date": "2025-08-01",
+      "time": "18:00 IST"
+    },
+    
+    // Group B Round 1
+    {
+      "id": "B1",
+      "player1Id": "P201",
+      "player2Id": "P202",
+      "group": "B",
+      "round": 1,
+      "status": "scheduled",
+      "date": "2025-08-01",
+      "time": "19:30 IST"
+    },
+    
+    // Group C Round 1
+    {
+      "id": "C1",
+      "player1Id": "P301",
+      "player2Id": "P302",
+      "group": "C",
+      "round": 1,
+      "status": "scheduled",
+      "date": "2025-08-02",
+      "time": "18:00 IST"
+    },
+    
+    // Group D Round 1
+    {
+      "id": "D1",
+      "player1Id": "P401",
+      "player2Id": "P402",
+      "group": "D",
+      "round": 1,
+      "status": "scheduled",
+      "date": "2025-08-02",
+      "time": "19:30 IST"
+    }
+  ],
+  "completedMatches": []
+}

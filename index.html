@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Hub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/notifications.css">
+</head>
+<body>
+  <!-- Notification System -->
+  <div class="notification-container" id="notificationContainer"></div>
+
+  <!-- Navbar -->
+  <div class="navbar-container">
+    <div class="navbar">
+      <div class="nav-indicator"></div>
+      <div class="nav-items">
+        <div class="nav-item active" data-tab="home">Home</div>
+        <div class="nav-item" data-tab="today">Today</div>
+        <div class="nav-item" data-tab="table">Table</div>
+        <div class="nav-item" data-tab="fixture">Fixture</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Content sections will be dynamically loaded -->
+  <div id="contentContainer" class="content-container"></div>
+
+  <!-- Player Modal -->
+  <div class="player-modal" id="playerModal">
+    <!-- Content will be dynamically loaded -->
+  </div>
+
+  <!-- Scroll-to-top Button -->
+  <button class="scroll-to-top" id="scrollToTop" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <!-- JavaScript Files -->
+  <script src="js/notifications.js"></script>
+  <script src="js/players.js"></script>
+  <script src="js/fixtures.js"></script>
+  <script src="js/standings.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
+
